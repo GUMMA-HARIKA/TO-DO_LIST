@@ -10,7 +10,7 @@ A simple to-do list app built using **HTML, CSS, and JavaScript** with **voice f
 ## 📌 Installation  
  1.Clone the repository:  
    ```bash
-   git clone https://github.com/GUMMA-HARIKA/TO-DO_LIST.git
+   git clone https://github.com/GUMMA-HARIKA/TO-DO_LIST.git```
 2.Open the folder in VS Code or any code editor.
 3.Open index.html in a browser to run the project.
 🔧 Technologies Used
