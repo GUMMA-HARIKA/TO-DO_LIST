@@ -7,15 +7,12 @@ A simple to-do list app built using **HTML, CSS, and JavaScript** with **voice f
 🔊 Voice feedback when tasks are added or removed  
 🎨 Simple & clean UI  
 
-## 📌 Installation  
- 1.Clone the repository:  
-   ```bash
-   git clone https://github.com/GUMMA-HARIKA/TO-DO_LIST.git```
-2.Open the folder in VS Code or any code editor.
-3.Open index.html in a browser to run the project.
-🔧 Technologies Used
+##🔧 Technologies Used
     HTML
     CSS
     JavaScript (Web Speech API)
 
-     Made by G. Harika
+## 📌 Installation  
+ Clone the repository,open the folder,Open index.html in a browser to run the project:  
+   ```bash
+   git clone https://github.com/GUMMA-HARIKA/TO-DO_LIST.git
